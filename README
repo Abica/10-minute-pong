@@ -1,0 +1,7 @@
+This was an attempt to write Pong in 10 minutes for a bet.
+
+I ended up stopping after 14 minutes and 32 seconds.
+
+The game is written in corona and runs on the iphone/ipad.
+
+The collision detection isn't pixel perfect and the scores do not show up.
